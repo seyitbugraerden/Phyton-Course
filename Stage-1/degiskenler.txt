@@ -1,3 +1,5 @@
 counter = 1oo // integer
 miles = 1000.0 // float
 name = "John" // String
+
+if kontrolleri yapılırken javascriptteki gibi süslü parantezler yerini ":" iki noktaya bırakmaktadır.
