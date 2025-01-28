@@ -1,0 +1,3 @@
+counter = 1oo // integer
+miles = 1000.0 // float
+name = "John" // String
